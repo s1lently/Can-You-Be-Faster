@@ -17,7 +17,7 @@ A CS2 detection assistant based on YOLOv8 and OpenCV, developed in Python. For r
 - Auto-adjustment for scoped/unscoped states
 - Precise parameter control (0.01 precision)
 
-[View full English documentation](https://github.com/s1lently/你可以再快一点吗/blob/main/README_EN.md)
+[View full English documentation](https://github.com/s1lently/Can-You-Be-Faster/blob/main/README_EN.md)
 
 ---
 
@@ -72,8 +72,8 @@ A CS2 detection assistant based on YOLOv8 and OpenCV, developed in Python. For r
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/s1lently/你可以再快一点吗.git
-cd 你可以再快一点吗
+git clone https://github.com/s1lently/Can-You-Be-Faster.git
+cd Can-You-Be-Faster
 ```
 
 2. 创建并激活 Conda 环境：

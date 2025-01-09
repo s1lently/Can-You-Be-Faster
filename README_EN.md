@@ -49,8 +49,8 @@ A CS2 detection assistant based on YOLOv8 and OpenCV, developed in Python. For r
 
 1. Clone repository:
 ```bash
-git clone https://github.com/s1lently/你可以再快一点吗.git
-cd 你可以再快一点吗
+git clone https://github.com/s1lently/Can-You-Be-Faster.git
+cd Can-You-Be-Faster
 ```
 
 2. Create and activate Conda environment:
