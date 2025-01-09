@@ -1,4 +1,27 @@
-# YOLOv8 CS2 目标检测助手
+# 你可以再快一点吗 / Can You Be Faster?
+
+[English](#english) | [中文](#chinese)
+
+# English
+
+A CS2 detection assistant based on YOLOv8 and OpenCV, developed in Python. For research and learning purposes only.
+
+## 🚀 Key Features
+
+- Real-time object detection and tracking
+- Adaptive aim assistance
+- Multiple mode switching
+- Highly configurable parameters
+- Scope detection support
+- GPU acceleration (CUDA)
+- Auto-adjustment for scoped/unscoped states
+- Precise parameter control (0.01 precision)
+
+[View full English documentation](https://github.com/s1lently/你可以再快一点吗/blob/main/README_EN.md)
+
+---
+
+# Chinese
 
 基于 YOLOv8 和 OpenCV 的 CS2 目标检测项目，使用 Python 开发。该项目仅用于研究和学习目的。
 
@@ -49,8 +72,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/s1lently/cs2_yolo_proj.git
-cd cs2_yolo_proj
+git clone https://github.com/s1lently/你可以再快一点吗.git
+cd 你可以再快一点吗
 ```
 
 2. 创建并激活 Conda 环境：
